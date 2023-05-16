@@ -11,7 +11,12 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        let albums = ["Red", "1989", "Reputation"]
+
+        for album in albums {
+            print("\(album) is on Apple Music")
+        }
     }
 
 
