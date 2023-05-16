@@ -13,6 +13,7 @@
 		498C5BB22A134C5A00B5FBCA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 498C5BB02A134C5A00B5FBCA /* Main.storyboard */; };
 		498C5BB42A134C5C00B5FBCA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 498C5BB32A134C5C00B5FBCA /* Assets.xcassets */; };
 		498C5BB72A134C5C00B5FBCA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 498C5BB52A134C5C00B5FBCA /* LaunchScreen.storyboard */; };
+		498C5BBF2A134ED000B5FBCA /* tableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498C5BBE2A134ED000B5FBCA /* tableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		498C5BB32A134C5C00B5FBCA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		498C5BB62A134C5C00B5FBCA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		498C5BB82A134C5C00B5FBCA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		498C5BBE2A134ED000B5FBCA /* tableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				498C5BAA2A134C5A00B5FBCA /* AppDelegate.swift */,
 				498C5BAC2A134C5A00B5FBCA /* SceneDelegate.swift */,
 				498C5BAE2A134C5A00B5FBCA /* ViewController.swift */,
+				498C5BBE2A134ED000B5FBCA /* tableView.swift */,
 				498C5BB02A134C5A00B5FBCA /* Main.storyboard */,
 				498C5BB32A134C5C00B5FBCA /* Assets.xcassets */,
 				498C5BB52A134C5C00B5FBCA /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				498C5BAF2A134C5A00B5FBCA /* ViewController.swift in Sources */,
+				498C5BBF2A134ED000B5FBCA /* tableView.swift in Sources */,
 				498C5BAB2A134C5A00B5FBCA /* AppDelegate.swift in Sources */,
 				498C5BAD2A134C5A00B5FBCA /* SceneDelegate.swift in Sources */,
 			);
